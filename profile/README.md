@@ -1,12 +1,15 @@
 # Cookiecutter Templates
 
-This is a collection of public cookiecutter templates I use to simplify my workflow. With one exception - the `obsidian-base` template - these are all based around Visual Studio Code, and specifically Visual Studio Code with the extensions listed at the bottom of the page.
+This is a collection of public cookiecutter templates I use to simplify my workflow. I've made them public in case others want to use them. Feel free to fork them if you want to modify a component of the template.
 
 ## Templates
 
-- [ ] python-package
+### Visual Studio Code
 
+Some aspects of the templates may be specific to VSCode - as this is what I'm using (mostly extensions, maybe some other stuff).
 
-## Extensions
+TODO
+
+### Obsidian
 
 TODO
